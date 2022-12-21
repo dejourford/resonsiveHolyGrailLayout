@@ -49,3 +49,16 @@ ul {
     justify-content: center;
 }
 
+.articleLinks  {
+    text-transform: uppercase;
+    background: peachpuff;
+}
+
+.articleLinks ul {
+    text-transform: uppercase;
+    background: peachpuff;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 16px;
+    justify-items: center;
+}
